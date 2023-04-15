@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400&display=swap');
+
+/* GENERAL STYLES
+
+*
+*
+*
+*
+*
+
+*/
+
+/* ROOT COLOR PALETTE */
+:root {
+    --logo-bbgMagenta: #EC008C;
+    --logo-brightTeal: #3BC1CA;
+    --logo-soapSudsTeal: #C9E9E6;
+    --seafoamTeal: #83C8C6;
+    --underwaterTeal: #036377;
+    --lazyYellow: #F8D077;
+    --deepViolet: #36264A;
+    --lavaRed: #EC0047;
+    --dropShadow: #A8CBCA;
+}
