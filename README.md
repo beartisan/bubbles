@@ -40,3 +40,5 @@ Events that User's have joined:
 
 This page shows list of events that the user have. This includes the past history of events attended, or the status that they have.
 
+<img width="280" alt="Screenshot 2023-04-17 at 19 45 06" src="https://user-images.githubusercontent.com/113320828/232634012-ea6a347a-be86-4092-b543-06c61090569b.png">
+
