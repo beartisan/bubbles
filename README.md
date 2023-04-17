@@ -19,12 +19,12 @@ Team Members:
 
 Users main log-in page:
 
-<img width="296" alt="Screenshot 2023-04-17 at 19 33 18" src="https://user-images.githubusercontent.com/113320828/232632811-1120b69a-c2ce-439f-a376-b2180a823cba.png" style="display: block; margin-left: auto; margin-right: auto; width: 30%;">
+<img width="296" alt="Screenshot 2023-04-17 at 19 33 18" src="https://user-images.githubusercontent.com/113320828/232632811-1120b69a-c2ce-439f-a376-b2180a823cba.png" >
 
 
 Profile Page for the user one's they have signed-in:
 
-<img width="275" alt="Screenshot 2023-04-17 at 19 36 24" src="https://user-images.githubusercontent.com/113320828/232633029-9be977c2-d1c1-473f-af5f-1ddf14c60090.png" style="display: block; margin-left: auto; margin-right: auto; width: 30%;" >
+<img width="275" alt="Screenshot 2023-04-17 at 19 36 24" src="https://user-images.githubusercontent.com/113320828/232633029-9be977c2-d1c1-473f-af5f-1ddf14c60090.png" >
 
 
 Edit Profile Page:
