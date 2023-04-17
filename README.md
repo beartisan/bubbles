@@ -19,4 +19,4 @@ Team Members:
 
 Home Page:
 
-<img width="346" alt="Screenshot 2023-04-17 at 19 33 18" src="https://user-images.githubusercontent.com/113320828/232632651-c6e19e5a-7f95-46eb-94d6-292882563df2.png">
+<img width="296" alt="Screenshot 2023-04-17 at 19 33 18" src="https://user-images.githubusercontent.com/113320828/232632811-1120b69a-c2ce-439f-a376-b2180a823cba.png">
