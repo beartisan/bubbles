@@ -26,7 +26,10 @@
 
 /* ***   1.   GENERAL STYLES  ***  */
 
-
+p, h1, h2, h3, h4, h5, h6, span
+{
+     font-family: 'Comfortaa', cursive;
+}
 
 
 
@@ -57,3 +60,1178 @@
 /* ***   6.   FOOTER STYLES  ***  */
 
 
+.your-profile-your-profile {
+    width: 100%;
+    height: 1017px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(252, 252, 252, 1);
+  }
+  .your-profile-groups {
+    top: 561px;
+    left: 20px;
+    width: 353px;
+    height: 334px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-group76 {
+    top: 0px;
+    left: 0px;
+    width: 353px;
+    height: 334px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .your-profile-group40 {
+    top: 23px;
+    left: 20px;
+    width: 108px;
+    height: 24px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-text {
+    color: var(--dl-color-default-underwaterteal);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .your-profile-group-profilesmall {
+    top: 171px;
+    left: 36px;
+    width: 77px;
+    height: 121px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-group62 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-group-pfp {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-image5 {
+    top: -2px;
+    left: -100px;
+    width: 181px;
+    height: 104px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-status {
+    top: 6px;
+    left: 56px;
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-name {
+    top: 133px;
+    left: 171px;
+    width: 71px;
+    height: 27px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-text02 {
+    color: rgba(3, 99, 119, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Comfortaa;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .your-profile-bio {
+    top: 169px;
+    left: 167px;
+    width: 206px;
+    height: 164px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(201, 233, 230, 1);
+  }
+  .your-profile-text04 {
+    top: 14px;
+    left: 18px;
+    color: var(--dl-color-default-underwaterteal);
+    width: 170px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 20px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .your-profile-userprofilepicbig {
+    top: 152px;
+    left: 19px;
+    width: 130px;
+    height: 130px;
+    position: absolute;
+  }
+  .your-profile-statusbar-hifi {
+    top: 0px;
+    left: 0px;
+    width: 393px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-rectangle1 {
+    top: 0px;
+    left: 0px;
+    width: 393px;
+    height: 54px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-text06 {
+    top: 31px;
+    left: 19px;
+    color: rgba(255, 255, 255, 1);
+    width: 33px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .your-profile-text08 {
+    top: 32px;
+    left: 335px;
+    color: rgba(255, 255, 255, 1);
+    width: 28px;
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .your-profile-signalcellularalt {
+    top: 34px;
+    left: 320px;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+  }
+  .your-profile-batteryfull {
+    top: 33px;
+    left: 363px;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+  }
+  .your-profile-signalwifi4bar {
+    top: 36px;
+    left: 306px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+  }
+  .your-profile-navbar-hifi {
+    top: 54px;
+    left: 0px;
+    width: 393px;
+    height: 44px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-rectangle2 {
+    top: 0px;
+    left: 0px;
+    width: 393px;
+    height: 44px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-vector {
+    top: 12px;
+    left: 353px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  .your-profile-arrowbackios {
+    top: 12px;
+    left: 15px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+  .your-profile-text10 {
+    top: 13px;
+    left: 54px;
+    color: var(--dl-color-default-underwaterteal);
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 20px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .your-profile-editproficon {
+    top: 108px;
+    left: 340px;
+    width: 39px;
+    height: 39px;
+    display: flex;
+    position: absolute;
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.25) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-ellipse51 {
+    top: 0px;
+    left: 0px;
+    width: 39px;
+    height: 39px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-frameiconpencil {
+    top: 8.53125px;
+    left: 8.53125px;
+    width: 21.9375px;
+    height: 21.9375px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-vector1 {
+    top: 0px;
+    left: 0px;
+    width: 22px;
+    height: 22px;
+    position: absolute;
+  }
+  .your-profile-group71 {
+    top: 303px;
+    left: 24px;
+    width: 119px;
+    height: 30px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(131, 200, 198, 1);
+  }
+  .your-profile-text12 {
+    top: 6px;
+    left: 29px;
+    color: var(--dl-color-default-deepviolet);
+    width: 72px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 20px;
+  }
+  .your-profile-text14 {
+    top: 5.769287109375px;
+    left: 17px;
+    color: var(--dl-color-default-deepviolet);
+    width: 9px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 20px;
+  }
+  .your-profile-secondary-button {
+    top: 836px;
+    left: 123px;
+    width: 147px;
+    height: 33px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-rectangle14 {
+    top: 0px;
+    left: 0px;
+    width: 147px;
+    height: 33px;
+    position: absolute;
+    border-color: rgba(59, 193, 202, 1);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 25px;
+  }
+  .your-profile-text16 {
+    top: 8px;
+    left: 9px;
+    color: var(--dl-color-default-underwaterteal);
+    width: 128px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .your-profile-tabbar-hifi {
+    top: 957px;
+    left: 0px;
+    width: 393px;
+    height: 60px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-rectangle3 {
+    top: -7px;
+    left: 0px;
+    width: 393px;
+    height: 67px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-frame44 {
+    top: 1px;
+    left: 38px;
+    width: 316px;
+    height: 47px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-group60 {
+    top: 0px;
+    left: -4px;
+    width: 322px;
+    height: 47px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-bubbles {
+    top: 3px;
+    left: 0px;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-text18 {
+    top: 32px;
+    color: var(--dl-color-default-white);
+    width: 44px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 20px;
+  }
+  .your-profile-frame45 {
+    top: 0px;
+    left: 7px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+  }
+  .your-profile-group57 {
+    top: 0px;
+    left: 94px;
+    width: 42px;
+    height: 47px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-search {
+    top: 0px;
+    left: 4px;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+  }
+  .your-profile-text20 {
+    top: 35px;
+    color: var(--dl-color-default-white);
+    width: 42px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 20px;
+  }
+  .your-profile-group58 {
+    top: 0px;
+    left: 190px;
+    width: 38px;
+    height: 47px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-accountcircle {
+    top: 0px;
+    left: 2px;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+  }
+  .your-profile-text22 {
+    top: 35px;
+    color: var(--dl-color-default-seafoamteal);
+    width: 38px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 20px;
+  }
+  .your-profile-group59 {
+    top: 2px;
+    left: 284px;
+    width: 38px;
+    height: 45px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-text24 {
+    top: 33px;
+    color: var(--dl-color-default-white);
+    width: 38px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 20px;
+  }
+  .your-profile-group74 {
+    top: 0px;
+    left: 7px;
+    width: 23.9617862701416px;
+    height: 30px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-frame46 {
+    top: 0px;
+    left: 0px;
+    width: 23.9617862701416px;
+    height: 30px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-vector2 {
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 30px;
+    position: absolute;
+  }
+  .your-profile-group73 {
+    top: 5px;
+    left: 14px;
+    width: 12px;
+    height: 12px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-ellipse57 {
+    top: 0px;
+    left: 0px;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    border-color: rgba(3, 99, 119, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .your-profile-text26 {
+    top: 6.5px;
+    left: 4px;
+    color: var(--dl-color-default-deepviolet);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: center;
+    font-family: Dongle;
+    font-weight: 700;
+    line-height: 0px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .your-profile-interests {
+    top: 367px;
+    left: 20px;
+    width: 353px;
+    height: 160px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .your-profile-text27 {
+    top: 23px;
+    left: 20px;
+    color: var(--dl-color-default-underwaterteal);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .your-profile-tag-icon {
+    top: 61px;
+    left: 36px;
+    width: 75px;
+    height: 75px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-group-pfp1 {
+    top: 0px;
+    left: 0px;
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-text29 {
+    top: 7.5px;
+    left: 8.750000953674316px;
+    color: var(--dl-color-default-deepviolet);
+    width: 59px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .your-profile-tag-icon1 {
+    top: 61px;
+    left: 139px;
+    width: 75px;
+    height: 75px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-group-pfp2 {
+    top: 0px;
+    left: 0px;
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-text31 {
+    top: 27.5px;
+    left: 7.750000953674316px;
+    color: var(--dl-color-default-deepviolet);
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .your-profile-tag-icon2 {
+    top: 61px;
+    left: 242px;
+    width: 75px;
+    height: 75px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-group-pfp3 {
+    top: 0px;
+    left: 0px;
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-text33 {
+    top: 7.5px;
+    left: 8.750000953674316px;
+    color: var(--dl-color-default-deepviolet);
+    width: 59px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .your-profile-group-profilesmall1 {
+    top: 628px;
+    left: 260px;
+    width: 77px;
+    height: 121px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-group621 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-group-pfp4 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-image51 {
+    top: -2px;
+    left: -100px;
+    width: 181px;
+    height: 104px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-status1 {
+    top: 6px;
+    left: 56px;
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-group-profilesmall2 {
+    top: 732px;
+    left: 260px;
+    width: 77px;
+    height: 121px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-group622 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-group-pfp5 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-image52 {
+    top: -2px;
+    left: -100px;
+    width: 181px;
+    height: 104px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-status2 {
+    top: 6px;
+    left: 56px;
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-group-profilesmall3 {
+    top: 628px;
+    left: 158px;
+    width: 77px;
+    height: 121px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-group623 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-group-pfp6 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-image53 {
+    top: -2px;
+    left: -100px;
+    width: 181px;
+    height: 104px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-status3 {
+    top: 6px;
+    left: 56px;
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-group-profilesmall4 {
+    top: 732px;
+    left: 158px;
+    width: 77px;
+    height: 121px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-group624 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-group-pfp7 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-image54 {
+    top: -2px;
+    left: -100px;
+    width: 181px;
+    height: 104px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-status4 {
+    top: 6px;
+    left: 56px;
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-group-profilesmall5 {
+    top: 628px;
+    left: 56px;
+    width: 77px;
+    height: 121px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .your-profile-group625 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .your-profile-group-pfp8 {
+    top: 0px;
+    left: 0px;
+    width: 77px;
+    height: 77px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-image55 {
+    top: -2px;
+    left: -100px;
+    width: 181px;
+    height: 104px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .your-profile-status5 {
+    top: 6px;
+    left: 56px;
+    width: 19px;
+    height: 19px;
+    position: absolute;
+    border-color: transparent;
+  }
+  
