@@ -25,3 +25,8 @@ Home Page:
 Profile Page:
 
 <img width="275" alt="Screenshot 2023-04-17 at 19 36 24" src="https://user-images.githubusercontent.com/113320828/232633029-9be977c2-d1c1-473f-af5f-1ddf14c60090.png">
+
+
+Edit Profile Page:
+
+<img width="275" alt="Screenshot 2023-04-17 at 19 38 35" src="https://user-images.githubusercontent.com/113320828/232633232-c2bb39d5-5f50-427d-8898-7a96d242f6eb.png">
