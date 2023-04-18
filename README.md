@@ -17,10 +17,7 @@ Team Members:
 
 ## Pages
 
-Users main log-in page:
-
-<img width="296" alt="Screenshot 2023-04-17 at 19 33 18" src="https://user-images.githubusercontent.com/113320828/232632811-1120b69a-c2ce-439f-a376-b2180a823cba.png" >
-
+Coded by Beatrice:
 
 Profile Page for the user one's they have signed-in:
 
@@ -33,6 +30,7 @@ Edit Profile Page:
 
 This gives them full CRUD functionalities of their own profile.
 
+----
 
 Events that User's have joined:
 
