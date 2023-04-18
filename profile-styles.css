@@ -131,7 +131,7 @@ p, h1, h2, h3, h4, h5, h6, span
 .your-profile-text10 {
   top: 13px;
   left: 54px;
-  color: var(--dl-color-default-underwaterteal);
+  color: var(--underwaterTeal);
   height: auto;
   position: absolute;
   align-self: auto;
@@ -246,7 +246,7 @@ p, h1, h2, h3, h4, h5, h6, span
   .joined-container-SmallText {
     top: 6px;
     left: 29px;
-    color: var(--dl-color-default-deepviolet);
+    color: var(--deepviolet);
     width: auto;
     height: auto;
     position: absolute;
@@ -516,6 +516,7 @@ p, h1, h2, h3, h4, h5, h6, span
   width: 30px;
   height: 30px;
   position: absolute;
+  align-items: center;
 }
 
 .search {
@@ -687,7 +688,6 @@ p, h1, h2, h3, h4, h5, h6, span
     border-color: transparent;
   }
   
-  
   .your-profile-rectangle2 {
     top: 0px;
     left: 0px;
@@ -696,11 +696,6 @@ p, h1, h2, h3, h4, h5, h6, span
     position: absolute;
     border-color: transparent;
   }
- 
- 
-
-
-  
 
   .your-profile-rectangle3 {
     top: -7px;
@@ -711,7 +706,7 @@ p, h1, h2, h3, h4, h5, h6, span
     border-color: transparent;
   }
   
-  .your-profile-group60 {
+  .Groups-Div {
     top: 0px;
     left: -4px;
     width: 322px;
@@ -733,7 +728,7 @@ p, h1, h2, h3, h4, h5, h6, span
     justify-content: flex-start;
     background-color: transparent;
   }
-  .your-profile-bubbles {
+  .footer-Container{
     top: 3px;
     left: 0px;
     width: 44px;
@@ -753,13 +748,13 @@ p, h1, h2, h3, h4, h5, h6, span
     justify-content: flex-start;
     background-color: transparent;
   }
-  .your-profile-text18 {
+  .footer-group-text {
     top: 32px;
-    color: var(--dl-color-default-white);
+    color: white;
     width: 44px;
     height: auto;
     position: absolute;
-    align-self: auto;
+    align-items: center;
     text-align: center;
     line-height: 20px;
   }
@@ -787,7 +782,7 @@ p, h1, h2, h3, h4, h5, h6, span
   
   .your-profile-text20 {
     top: 35px;
-    color: var(--dl-color-default-white);
+    color: white;
     width: 42px;
     height: auto;
     position: absolute;
@@ -799,7 +794,7 @@ p, h1, h2, h3, h4, h5, h6, span
   
   .your-profile-text22 {
     top: 35px;
-    color: var(--dl-color-default-seafoamteal);
+    color: var(--seafoamTeal);
     width: 38px;
     height: auto;
     position: absolute;
@@ -829,7 +824,7 @@ p, h1, h2, h3, h4, h5, h6, span
   }
   .your-profile-text24 {
     top: 33px;
-    color: var(--dl-color-default-white);
+    color: white;
     width: 38px;
     height: auto;
     position: absolute;
