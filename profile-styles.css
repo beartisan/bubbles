@@ -84,6 +84,8 @@ p, h1, h2, h3, h4, h5, h6
   margin-right: 0;
   margin-bottom: 0;
   text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
 }
 .your-profile-signalcellularalt {
   top: 34px;
@@ -261,7 +263,7 @@ p, h1, h2, h3, h4, h5, h6
   .bubbles-joined{
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    font-size: small;
+    font-size: 12px;
   }
 
   .six{
@@ -664,7 +666,7 @@ p, h1, h2, h3, h4, h5, h6
     width: 170px;
     height: auto;
     position: absolute;
-    font-size: 14px;
+    font-size: 14.2px;
     align-self: auto;
     font-style: Regular;
     text-align: left;
@@ -674,7 +676,9 @@ p, h1, h2, h3, h4, h5, h6
     font-stretch: normal;
     text-decoration: none;
   }
- 
+  .description{
+    display: inline;
+  }
   
   .your-profile-rectangle1 {
     top: 0px;
