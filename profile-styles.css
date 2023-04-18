@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;500;600&family=Montserrat:wght@400;500&family=Open+Sans:wght@300;400&display=swap');
+
 
 /* GUIDE 
 
@@ -461,7 +462,8 @@ p, h1, h2, h3, h4, h5, h6, span
     height: 22px;
     position: absolute;
   }
-  .your-profile-group71 {
+  /* BUBBLES JOINED BUTTON */
+  .joined-container {
     top: 303px;
     left: 24px;
     width: 119px;
@@ -483,18 +485,31 @@ p, h1, h2, h3, h4, h5, h6, span
     justify-content: flex-start;
     background-color: rgba(131, 200, 198, 1);
   }
-  .your-profile-text12 {
+
+  .joined-container-SmallText {
     top: 6px;
     left: 29px;
     color: var(--dl-color-default-deepviolet);
-    width: 72px;
+    width: auto;
     height: auto;
     position: absolute;
     align-self: auto;
     text-align: left;
     line-height: 20px;
+    
   }
-  .your-profile-text14 {
+
+  .bubbles-joined{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: small;
+  }
+
+  .six{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+  }
+  .joined-container-ButtonText {
     top: 5.769287109375px;
     left: 17px;
     color: var(--dl-color-default-deepviolet);
@@ -504,7 +519,10 @@ p, h1, h2, h3, h4, h5, h6, span
     align-self: auto;
     text-align: left;
     line-height: 20px;
+   
   }
+
+
   .your-profile-secondary-button {
     top: 836px;
     left: 123px;
