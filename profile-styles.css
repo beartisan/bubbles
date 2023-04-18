@@ -32,17 +32,179 @@ p, h1, h2, h3, h4, h5, h6, span
      font-family: 'Comfortaa', cursive;
 }
 
-
-
 /* ***   2.   HEADER STYLES  ***  */
 
+.your-profile-navbar-hifi {
+  top: 54px;
+  left: 0px;
+  width: 393px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: #ECECEC;
+}
 
+.your-profile-arrowbackios {
+  top: 12px;
+  left: 15px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
 
+.your-profile-text10 {
+  top: 13px;
+  left: 54px;
+  color: var(--dl-color-default-underwaterteal);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 20px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
 
+.your-profile-vector {
+  top: 12px;
+  right: 15px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+
+.settings-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
 
 /* ***   3.   PROFILE STYLES  ***  */
 
+.profile-photo {
+  top: 152px;
+  left: 19px;
+  width: 130px;
+  height: 130px;
+  position: absolute;
+}
 
+/* Pencil Edit Icon */
+.your-profile-editproficon {
+  top: 108px;
+  left: 340px;
+  width: 39px;
+  height: 39px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.edit-icon {
+  top: 0px;
+  left: 0px;
+  width: 39px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+}
+.your-profile-frameiconpencil {
+  top: 8.53125px;
+  left: 8.53125px;
+  width: 21.9375px;
+  height: 21.9375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.your-profile-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+}
+
+  /* BUBBLES JOINED BUTTON */
+  .joined-container {
+    top: 303px;
+    left: 24px;
+    width: 119px;
+    height: 30px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 10px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(131, 200, 198, 1);
+  }
+
+  .joined-container-SmallText {
+    top: 6px;
+    left: 29px;
+    color: var(--dl-color-default-deepviolet);
+    width: auto;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 20px;
+    
+  }
+
+  .bubbles-joined{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: small;
+  }
+
+  .six{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+  }
+  .joined-container-ButtonText {
+    top: 5.769287109375px;
+    left: 17px;
+    color: var(--dl-color-default-deepviolet);
+    width: 9px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 20px;
+   
+  }
 
 
 
@@ -55,34 +217,14 @@ p, h1, h2, h3, h4, h5, h6, span
 /* ***   5.   MY GROUPS STYLES  ***  */
 
 
-
-
-
-/* ***   6.   FOOTER STYLES  ***  */
-
-
-
-/* updated code */
-
-.your-profile-your-profile {
-    width: 100%;
-    height: 1017px;
-    display: flex;
-    overflow: hidden;
-    position: relative;
-    align-items: flex-start;
-    flex-shrink: 0;
-    border-color: transparent;
-    background-color: rgba(252, 252, 252, 1);
-  }
-  .your-profile-groups {
+   .your-profile-groups {
     top: 561px;
     left: 20px;
     width: 353px;
     height: 334px;
     display: flex;
     padding: 0;
-    position: absolute;
+    position: relative; 
     align-self: auto;
     box-sizing: border-box;
     align-items: flex-start;
@@ -137,7 +279,7 @@ p, h1, h2, h3, h4, h5, h6, span
     background-color: transparent;
   }
   .your-profile-text {
-    color: var(--dl-color-default-underwaterteal);
+    color: var(--underwaterTeal);
     height: auto;
     position: absolute;
     font-size: 20px;
@@ -161,7 +303,7 @@ p, h1, h2, h3, h4, h5, h6, span
     flex-shrink: 0;
     border-color: transparent;
   }
-  .your-profile-group62 {
+  .group4-container {
     top: 0px;
     left: 0px;
     width: 77px;
@@ -190,7 +332,103 @@ p, h1, h2, h3, h4, h5, h6, span
     height: 77px;
     position: absolute;
     border-color: transparent;
+  } 
+
+  /* Find more groups button */
+
+  /* .your-profile-secondary-button {
+    top: 836px;
+    left: 123px;
+    width: 147px;
+    height: 33px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
   }
+  .your-profile-rectangle14 {
+    top: 0px;
+    left: 0px;
+    width: 147px;
+    height: 33px;
+    position: absolute;
+    border-color: rgba(59, 193, 202, 1);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 25px;
+  }
+  .your-profile-text16 {
+    top: 8px;
+    left: 9px;
+    color: var(--dl-color-default-underwaterteal);
+    width: 128px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 0;
+    margin-bottom: 0;
+  } */
+  
+  .find-group-wrapper {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%); /* center the div horizontally */
+  }
+
+  .btn-findGroup {
+    top: 836px;
+    left: 123px;
+    position: absolute;
+    /* display: flex; */
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    align-items: flex-start;
+    flex-shrink: 0;
+    width: 147px;
+    height: 33px;
+    padding: 0;
+    border-radius: 25px;
+    border: 3px solid var(--logo-brightTeal);
+    background-color: var(--logo-soapSudsTeal);
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .findGroup-text {
+    color: var(--underwaterTeal);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 33px;
+    font-weight: bold !important;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+
+
+/* ***   6.   FOOTER STYLES  ***  */
+
+
+
+/* updated code */
+
+.your-profile-your-profile {
+    width: 100%;
+    height: 1017px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(252, 252, 252, 1);
+  }
+
+
   .your-profile-image5 {
     top: -2px;
     left: -100px;
@@ -282,13 +520,7 @@ p, h1, h2, h3, h4, h5, h6, span
     font-stretch: normal;
     text-decoration: none;
   }
-  .your-profile-userprofilepicbig {
-    top: 152px;
-    left: 19px;
-    width: 130px;
-    height: 130px;
-    position: absolute;
-  }
+ 
   .your-profile-statusbar-hifi {
     top: 0px;
     left: 0px;
@@ -367,17 +599,7 @@ p, h1, h2, h3, h4, h5, h6, span
     height: 10px;
     position: absolute;
   }
-  .your-profile-navbar-hifi {
-    top: 54px;
-    left: 0px;
-    width: 393px;
-    height: 44px;
-    display: flex;
-    position: absolute;
-    align-items: flex-start;
-    flex-shrink: 0;
-    border-color: transparent;
-  }
+  
   .your-profile-rectangle2 {
     top: 0px;
     left: 0px;
@@ -386,208 +608,10 @@ p, h1, h2, h3, h4, h5, h6, span
     position: absolute;
     border-color: transparent;
   }
-  .your-profile-vector {
-    top: 12px;
-    left: 353px;
-    width: 20px;
-    height: 20px;
-    position: absolute;
-  }
-  .your-profile-arrowbackios {
-    top: 12px;
-    left: 15px;
-    width: 20px;
-    height: 20px;
-    position: absolute;
-  }
-  .your-profile-text10 {
-    top: 13px;
-    left: 54px;
-    color: var(--dl-color-default-underwaterteal);
-    height: auto;
-    position: absolute;
-    align-self: auto;
-    text-align: left;
-    line-height: 20px;
-    margin-right: 0;
-    margin-bottom: 0;
-  }
-  .your-profile-editproficon {
-    top: 108px;
-    left: 340px;
-    width: 39px;
-    height: 39px;
-    display: flex;
-    position: absolute;
-    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.25) ;
-    align-items: flex-start;
-    flex-shrink: 0;
-    border-color: transparent;
-  }
-  .your-profile-ellipse51 {
-    top: 0px;
-    left: 0px;
-    width: 39px;
-    height: 39px;
-    position: absolute;
-    border-color: transparent;
-  }
-  .your-profile-frameiconpencil {
-    top: 8.53125px;
-    left: 8.53125px;
-    width: 21.9375px;
-    height: 21.9375px;
-    display: flex;
-    padding: 0;
-    position: absolute;
-    align-self: auto;
-    box-sizing: border-box;
-    align-items: flex-start;
-    flex-shrink: 1;
-    border-color: transparent;
-    border-style: none;
-    border-width: 0;
-    margin-right: 0;
-    border-radius: 0px 0px 0px 0px;
-    margin-bottom: 0;
-    flex-direction: row;
-    justify-content: flex-start;
-    background-color: transparent;
-  }
-  .your-profile-vector1 {
-    top: 0px;
-    left: 0px;
-    width: 22px;
-    height: 22px;
-    position: absolute;
-  }
-  /* BUBBLES JOINED BUTTON */
-  .joined-container {
-    top: 303px;
-    left: 24px;
-    width: 119px;
-    height: 30px;
-    display: flex;
-    padding: 0;
-    position: absolute;
-    align-self: auto;
-    box-sizing: border-box;
-    align-items: flex-start;
-    flex-shrink: 1;
-    border-color: transparent;
-    border-style: none;
-    border-width: 0;
-    margin-right: 0;
-    border-radius: 10px;
-    margin-bottom: 0;
-    flex-direction: row;
-    justify-content: flex-start;
-    background-color: rgba(131, 200, 198, 1);
-  }
+ 
+ 
 
-  .joined-container-SmallText {
-    top: 6px;
-    left: 29px;
-    color: var(--dl-color-default-deepviolet);
-    width: auto;
-    height: auto;
-    position: absolute;
-    align-self: auto;
-    text-align: left;
-    line-height: 20px;
-    
-  }
 
-  .bubbles-joined{
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
-    font-size: small;
-  }
-
-  .six{
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 600;
-  }
-  .joined-container-ButtonText {
-    top: 5.769287109375px;
-    left: 17px;
-    color: var(--dl-color-default-deepviolet);
-    width: 9px;
-    height: auto;
-    position: absolute;
-    align-self: auto;
-    text-align: left;
-    line-height: 20px;
-   
-  }
-
-/* Find more groups button */
-
-  /* .your-profile-secondary-button {
-    top: 836px;
-    left: 123px;
-    width: 147px;
-    height: 33px;
-    display: flex;
-    position: absolute;
-    align-items: flex-start;
-    flex-shrink: 0;
-    border-color: transparent;
-  }
-  .your-profile-rectangle14 {
-    top: 0px;
-    left: 0px;
-    width: 147px;
-    height: 33px;
-    position: absolute;
-    border-color: rgba(59, 193, 202, 1);
-    border-style: solid;
-    border-width: 3px;
-    border-radius: 25px;
-  }
-  .your-profile-text16 {
-    top: 8px;
-    left: 9px;
-    color: var(--dl-color-default-underwaterteal);
-    width: 128px;
-    height: auto;
-    position: absolute;
-    align-self: auto;
-    text-align: center;
-    line-height: 20px;
-    margin-right: 0;
-    margin-bottom: 0;
-  } */
-  
-  .btn-findGroup {
-    top: 836px;
-    left: 123px;
-    position: absolute;
-    /* display: inline-block; */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    align-items: flex-start;
-    flex-shrink: 0;
-    width: 147px;
-    height: 33px;
-    padding: 0;
-    border-radius: 25px;
-    border: 3px solid var(--logo-brightTeal);
-    background-color: var(--logo-soapSudsTeal);
-    text-align: center;
-    text-decoration: none;
-  }
-  
-  .findGroup-text {
-    color: var(--underwaterTeal);
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    line-height: 33px;
-    font-weight: bold !important;
-    margin-right: 0;
-    margin-bottom: 0;
-  }
   
 
   .your-profile-tabbar-hifi {
@@ -1013,7 +1037,7 @@ p, h1, h2, h3, h4, h5, h6, span
     flex-shrink: 0;
     border-color: transparent;
   }
-  .your-profile-group621 {
+  .group3-container{
     top: 0px;
     left: 0px;
     width: 77px;
@@ -1071,7 +1095,7 @@ p, h1, h2, h3, h4, h5, h6, span
     flex-shrink: 0;
     border-color: transparent;
   }
-  .your-profile-group622 {
+  .group6-container  {
     top: 0px;
     left: 0px;
     width: 77px;
@@ -1128,7 +1152,7 @@ p, h1, h2, h3, h4, h5, h6, span
     flex-shrink: 0;
     border-color: transparent;
   }
-  .your-profile-group623 {
+  .group2-container{
     top: 0px;
     left: 0px;
     width: 77px;
@@ -1185,7 +1209,7 @@ p, h1, h2, h3, h4, h5, h6, span
     flex-shrink: 0;
     border-color: transparent;
   }
-  .your-profile-group624 {
+  .group5-container{
     top: 0px;
     left: 0px;
     width: 77px;
@@ -1242,7 +1266,7 @@ p, h1, h2, h3, h4, h5, h6, span
     flex-shrink: 0;
     border-color: transparent;
   }
-  .your-profile-group625 {
+  .group1-container{
     top: 0px;
     left: 0px;
     width: 77px;
@@ -1272,14 +1296,14 @@ p, h1, h2, h3, h4, h5, h6, span
     position: absolute;
     border-color: transparent;
   }
-  .your-profile-image55 {
+  /* .your-profile-image55 {
     top: -2px;
     left: -100px;
-    width: 181px;
-    height: 104px;
+    max-width: 181px;
+    max-height: 104px;
     position: absolute;
     border-color: transparent;
-  }
+  } */
   .your-profile-status5 {
     top: 6px;
     left: 56px;
