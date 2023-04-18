@@ -934,7 +934,7 @@ p, h1, h2, h3, h4, h5, h6, span
   .your-profile-text27 {
     top: 23px;
     left: 20px;
-    color: var(--dl-color-default-underwaterteal);
+    color: var(--underwaterTeal);
     height: auto;
     position: absolute;
     font-size: 20px;
@@ -969,7 +969,7 @@ p, h1, h2, h3, h4, h5, h6, span
   .your-profile-text29 {
     top: 27px;
     left: 8.750000953674316px;
-    color: var(--dl-color-default-deepviolet);
+    color: var(--deepViolet);
     width: 59px;
     height: auto;
     position: absolute;
@@ -1001,7 +1001,7 @@ p, h1, h2, h3, h4, h5, h6, span
   .your-profile-text31 {
     top: 27px;
     left: 7.750000953674316px;
-    color: var(--dl-color-default-deepviolet);
+    color: var(--deepViolet);
     height: auto;
     position: absolute;
     align-self: auto;
@@ -1032,7 +1032,7 @@ p, h1, h2, h3, h4, h5, h6, span
   .your-profile-text33 {
     top: 16px;
     left: 8.750000953674316px;
-    color: var(--dl-color-default-deepviolet);
+    color: var(--deepViolet);
     width: 59px;
     height: auto;
     position: absolute;
