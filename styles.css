@@ -60,6 +60,9 @@ p, h1, h2, h3, h4, h5, h6, span
 /* ***   6.   FOOTER STYLES  ***  */
 
 
+
+/* updated code */
+
 .your-profile-your-profile {
     width: 100%;
     height: 1017px;
@@ -105,10 +108,10 @@ p, h1, h2, h3, h4, h5, h6, span
     box-sizing: border-box;
     align-items: flex-start;
     flex-shrink: 1;
-    border-color: transparent;
-    border-style: none;
-    border-width: 0;
-    border-radius: 0px 0px 0px 0px;
+    border-color: var(--dl-color-default-lazysunlightyellow);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
     flex-direction: row;
     justify-content: flex-start;
     background-color: rgba(255, 255, 255, 1);
@@ -256,7 +259,7 @@ p, h1, h2, h3, h4, h5, h6, span
     border-style: none;
     border-width: 0;
     margin-right: 0;
-    border-radius: 0px 0px 0px 0px;
+    border-radius: 10px;
     margin-bottom: 0;
     flex-direction: row;
     justify-content: flex-start;
@@ -474,7 +477,7 @@ p, h1, h2, h3, h4, h5, h6, span
     border-style: none;
     border-width: 0;
     margin-right: 0;
-    border-radius: 0px 0px 0px 0px;
+    border-radius: 10px;
     margin-bottom: 0;
     flex-direction: row;
     justify-content: flex-start;
@@ -828,11 +831,11 @@ p, h1, h2, h3, h4, h5, h6, span
     box-sizing: border-box;
     align-items: flex-start;
     flex-shrink: 1;
-    border-color: transparent;
-    border-style: none;
-    border-width: 0;
+    border-color: var(--dl-color-default-lazysunlightyellow);
+    border-style: solid;
+    border-width: 1px;
     margin-right: 0;
-    border-radius: 0px 0px 0px 0px;
+    border-radius: 16px;
     margin-bottom: 0;
     flex-direction: row;
     justify-content: flex-start;
@@ -874,7 +877,7 @@ p, h1, h2, h3, h4, h5, h6, span
     border-color: transparent;
   }
   .your-profile-text29 {
-    top: 7.5px;
+    top: 27px;
     left: 8.750000953674316px;
     color: var(--dl-color-default-deepviolet);
     width: 59px;
@@ -906,7 +909,7 @@ p, h1, h2, h3, h4, h5, h6, span
     border-color: transparent;
   }
   .your-profile-text31 {
-    top: 27.5px;
+    top: 27px;
     left: 7.750000953674316px;
     color: var(--dl-color-default-deepviolet);
     height: auto;
@@ -937,7 +940,7 @@ p, h1, h2, h3, h4, h5, h6, span
     border-color: transparent;
   }
   .your-profile-text33 {
-    top: 7.5px;
+    top: 16px;
     left: 8.750000953674316px;
     color: var(--dl-color-default-deepviolet);
     width: 59px;
@@ -978,6 +981,7 @@ p, h1, h2, h3, h4, h5, h6, span
     margin-right: 0;
     border-radius: 0px 0px 0px 0px;
     margin-bottom: 0;
+    padding-right: 0;
     flex-direction: row;
     justify-content: flex-start;
     background-color: transparent;
@@ -996,7 +1000,7 @@ p, h1, h2, h3, h4, h5, h6, span
     width: 181px;
     height: 104px;
     position: absolute;
-    border-color: transparent;
+    border-radius: var(--dl-radius-radius-radius4);
   }
   .your-profile-status1 {
     top: 6px;
