@@ -97,7 +97,8 @@ p, h1, h2, h3, h4, h5, h6, span
     justify-content: flex-start;
     background-color: transparent;
   }
-  .your-profile-group76 {
+
+  .group-border {
     top: 0px;
     left: 0px;
     width: 353px;
@@ -109,9 +110,7 @@ p, h1, h2, h3, h4, h5, h6, span
     box-sizing: border-box;
     align-items: flex-start;
     flex-shrink: 1;
-    border-color: var(--dl-color-default-lazysunlightyellow);
-    border-style: solid;
-    border-width: 1px;
+    border: 1px solid var(--lazyYellow);
     border-radius: 10px;
     flex-direction: row;
     justify-content: flex-start;
@@ -266,10 +265,10 @@ p, h1, h2, h3, h4, h5, h6, span
     justify-content: flex-start;
     background-color: rgba(201, 233, 230, 1);
   }
-  .your-profile-text04 {
+  .description-container {
     top: 14px;
     left: 18px;
-    color: var(--dl-color-default-underwaterteal);
+    color: var(--underwaterTeal);
     width: 170px;
     height: auto;
     position: absolute;
@@ -837,7 +836,7 @@ p, h1, h2, h3, h4, h5, h6, span
     font-stretch: normal;
     text-decoration: none;
   }
-  .your-profile-interests {
+  .interest-border {
     top: 367px;
     left: 20px;
     width: 353px;
@@ -849,7 +848,7 @@ p, h1, h2, h3, h4, h5, h6, span
     box-sizing: border-box;
     align-items: flex-start;
     flex-shrink: 1;
-    border-color: var(--dl-color-default-lazysunlightyellow);
+    border-color: var(--lazyYellow);
     border-style: solid;
     border-width: 1px;
     margin-right: 0;
@@ -886,7 +885,7 @@ p, h1, h2, h3, h4, h5, h6, span
     flex-shrink: 0;
     border-color: transparent;
   }
-  .your-profile-group-pfp1 {
+  .groupcircle-1 {
     top: 0px;
     left: 0px;
     width: 75px;
@@ -949,7 +948,7 @@ p, h1, h2, h3, h4, h5, h6, span
     flex-shrink: 0;
     border-color: transparent;
   }
-  .your-profile-group-pfp3 {
+  .groupcircle-3 {
     top: 0px;
     left: 0px;
     width: 75px;
