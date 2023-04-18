@@ -5,9 +5,9 @@
 
 * 1. GENERAL STYLES
 * 2. HEADER
-* 3. MAIN
-* 4. SECTION
-* 5. BUTTON STYLES
+* 3. PROFILE
+* 4. MY INTERESTS
+* 5. MY GROUPS
 * 6. FOOTER 
 
 */
@@ -40,19 +40,19 @@ p, h1, h2, h3, h4, h5, h6, span
 
 
 
-/* ***   3.   MAIN STYLES  ***  */
+/* ***   3.   PROFILE STYLES  ***  */
 
 
 
 
 
-/* ***   4.   SECTION STYLES  ***  */
+/* ***   4.   MY INTERESTS STYLES  ***  */
 
 
 
 
 
-/* ***   5.   BUTTON STYLES  ***  */
+/* ***   5.   MY GROUPS STYLES  ***  */
 
 
 
@@ -521,8 +521,9 @@ p, h1, h2, h3, h4, h5, h6, span
    
   }
 
+/* Find more groups button */
 
-  .your-profile-secondary-button {
+  /* .your-profile-secondary-button {
     top: 836px;
     left: 123px;
     width: 147px;
@@ -556,7 +557,39 @@ p, h1, h2, h3, h4, h5, h6, span
     line-height: 20px;
     margin-right: 0;
     margin-bottom: 0;
+  } */
+  
+  .btn-findGroup {
+    top: 836px;
+    left: 123px;
+    position: absolute;
+    /* display: inline-block; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: flex-start;
+    flex-shrink: 0;
+    width: 147px;
+    height: 33px;
+    padding: 0;
+    border-radius: 25px;
+    border: 3px solid var(--logo-brightTeal);
+    background-color: var(--logo-soapSudsTeal);
+    text-align: center;
+    text-decoration: none;
   }
+  
+  .findGroup-text {
+    color: var(--underwaterTeal);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 33px;
+    font-weight: bold !important;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  
+
   .your-profile-tabbar-hifi {
     top: 957px;
     left: 0px;
