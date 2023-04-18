@@ -27,7 +27,7 @@
 
 /* ***   1.   GENERAL STYLES  ***  */
 
-p, h1, h2, h3, h4, h5, h6, span
+p, h1, h2, h3, h4, h5, h6
 {
      font-family: 'Comfortaa', cursive;
 }
@@ -139,6 +139,8 @@ p, h1, h2, h3, h4, h5, h6, span
   line-height: 20px;
   margin-right: 0;
   margin-bottom: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
 }
 
 .your-profile-vector {
@@ -283,7 +285,10 @@ p, h1, h2, h3, h4, h5, h6, span
 
 /* ***   4.   MY INTERESTS STYLES  ***  */
 
-
+.interest{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
 
 
 
@@ -334,35 +339,26 @@ p, h1, h2, h3, h4, h5, h6, span
   .your-profile-group40 {
     top: 23px;
     left: 20px;
-    width: 108px;
     height: 24px;
     display: flex;
     padding: 0;
     position: absolute;
     align-self: auto;
     box-sizing: border-box;
-    align-items: flex-start;
+    align-items: center;
     flex-shrink: 1;
-    border-color: transparent;
-    border-style: none;
-    border-width: 0;
-    border-radius: 0px 0px 0px 0px;
     flex-direction: row;
     justify-content: flex-start;
     background-color: transparent;
   }
   .your-profile-text {
     color: var(--underwaterTeal);
-    height: auto;
-    position: absolute;
-    font-size: 20px;
-    align-self: auto;
     font-style: Regular;
     text-align: left;
-    font-family: Montserrat;
+    font-family: 'comfortaa', sans-serif;
     font-weight: 400;
+    font-size: 24px;
     line-height: normal;
-    font-stretch: normal;
     text-decoration: none;
   }
   .your-profile-group-profilesmall {
@@ -480,6 +476,7 @@ p, h1, h2, h3, h4, h5, h6, span
     font-weight: bold !important;
     margin-right: 0;
     margin-bottom: 0;
+    
   }
 
 
@@ -671,7 +668,7 @@ p, h1, h2, h3, h4, h5, h6, span
     align-self: auto;
     font-style: Regular;
     text-align: left;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     line-height: 20px;
     font-stretch: normal;
@@ -754,9 +751,10 @@ p, h1, h2, h3, h4, h5, h6, span
     width: 44px;
     height: auto;
     position: absolute;
-    align-items: center;
     text-align: center;
     line-height: 20px;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
   }
   
   .your-profile-group57 {
@@ -789,6 +787,8 @@ p, h1, h2, h3, h4, h5, h6, span
     align-self: auto;
     text-align: center;
     line-height: 20px;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
   }
   
   
@@ -801,6 +801,8 @@ p, h1, h2, h3, h4, h5, h6, span
     align-self: auto;
     text-align: center;
     line-height: 20px;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
   }
   .your-profile-group59 {
     top: 2px;
@@ -831,6 +833,8 @@ p, h1, h2, h3, h4, h5, h6, span
     align-self: auto;
     text-align: center;
     line-height: 20px;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
   }
   .your-profile-group74 {
     top: 0px;
@@ -935,17 +939,17 @@ p, h1, h2, h3, h4, h5, h6, span
     top: 23px;
     left: 20px;
     color: var(--underwaterTeal);
-    height: auto;
+    height: 10px;
     position: absolute;
-    font-size: 20px;
     align-self: auto;
     font-style: Regular;
     text-align: left;
-    font-family: Montserrat;
+    font-family: 'Comfortaa', sans-serif;
     font-weight: 400;
     line-height: normal;
     font-stretch: normal;
     text-decoration: none;
+    font-size: 24px;
   }
   .your-profile-tag-icon {
     top: 61px;
