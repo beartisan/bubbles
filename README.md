@@ -35,6 +35,7 @@ This gives them full CRUD functionalities of their own profile.
 
 ---
 Search Page Layout:
+
 ![Search](https://user-images.githubusercontent.com/113320828/233805504-b24ea350-19e0-403d-b325-4fa67129043d.png)
 
 ![Events List](https://user-images.githubusercontent.com/113320828/233805513-68372d98-d52d-4bb9-8fd7-651e7b34173a.png)
