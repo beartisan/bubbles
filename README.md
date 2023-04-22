@@ -22,9 +22,12 @@ Coded by Beatrice:
 
 Profile Page for the user one's they have signed-in:
 
-<img width="275" alt="Screenshot 2023-04-17 at 19 36 24" src="https://user-images.githubusercontent.com/113320828/232633029-9be977c2-d1c1-473f-af5f-1ddf14c60090.png" >
+![Your Profile](https://user-images.githubusercontent.com/113320828/233805564-8052bce0-684e-4a6b-9ae2-2ac343790f0c.png)
+
 
 Registered Bubble users can create a profile page. If they want to change, they can click on Edit Profile. They can opt to also join groups, and also add interests.
+
+![Edit Profile](https://user-images.githubusercontent.com/113320828/233805566-44190b0a-9812-4f16-b180-f588005ebc32.png)
 
 Edit Profile Page:
 
