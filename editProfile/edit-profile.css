@@ -34,7 +34,13 @@ span{
   font-family: 'Montserrat', sans-serif;
 }
 
-.edit-profile{
+.edit-profile {
+  color: var(--underwaterTeal);
+  text-decoration: none;
+}
+
+a:visited , a:hover, a:active  {
+  color: var(--underwaterTeal);
   text-decoration: none;
 }
 
