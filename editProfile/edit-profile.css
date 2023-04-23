@@ -13,30 +13,18 @@
   --dropShadow: #A8CBCA;
 }
 
-.editPage{
-  width: 50%;
-  top: 0;
-  right: 0;
-  left: 0;
-  bottom: 0;
-  z-index: -1;
-}
-
-.back-edit-button{
-  color: var(--seafoamTeal);
-  position: absolute;
-  top: 10%;
-  left: 10%;
-  transform: translate(-50%, -50%);
-}
 
 span{
   font-family: 'Montserrat', sans-serif;
 }
 
 .edit-profile {
-  color: var(--underwaterTeal);
   text-decoration: none;
+}
+
+.edit-profile {
+  color: var(--underwaterTeal);
+  font-size: 2.5vw;
 }
 
 a:visited , a:hover, a:active  {
@@ -44,6 +32,23 @@ a:visited , a:hover, a:active  {
   text-decoration: none;
 }
 
-.page-image{
-  position: relative;
+body {
+  background-image: url("/images/Editprofile.png");
+  background-size: 393px auto;
+  background-position: top left;
+  background-repeat: no-repeat;
+  overflow-y: scroll;
+  max-width: 100vw;
+  min-width: 393px;
 }
+
+.editPage{
+  width: 50%;
+  height: 50%;
+}
+
+.back-edit-button{
+  position: absolute;
+  top: 60px;
+}
+
