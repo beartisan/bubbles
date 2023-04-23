@@ -6,3 +6,4 @@ editIcon.addEventListener('click', () => {
   // Navigate to the edit-profile.html page
   window.location.href = 'edit-profile.html';
 });
+
